@@ -1,6 +1,6 @@
 <h1>Simple Lua Program</h1>
 
- ### [Download Project]()
+ ### [Download Project](https://github.com/lukejkellet/Simple-Lua-Program/archive/refs/heads/main.zip)
 
 <h2>Description</h2>
 The project is a very simplistic entry-level program featuring a few basic Lua programming concepts and functions. The project was developed to work with the cross-platform Lua framework, Solar2D.
